@@ -8,7 +8,6 @@
   Department of Computer Science and Engineering 
 
 >#### 개인 활동 Active
-- 트위터(X): [개발 트위터/X](https://x.com/MKeulaepeu1522) </br>
 - 블로그: [개발 회고록](https://velog.io/@min0gyu0kang/posts)
 
 >#### 연락처 Contacts (change to form)
@@ -21,17 +20,14 @@
 - [엘리스 AIx웹 10기 활동 기록](https://locrian-jumpsuit-ec0.notion.site/b0e05e55fb4c46759cee4265a26c94e3)
 
 >#### 사용 가능한 프로그램
->- Visual Studio Code
 >- Java Eclipse
 >- Python IDE
->- Postman
 
 >#### 사용 가능한 프레임워크 (change to badge)
->- React.js + Recharts
->- Node.js Express
+>- React.js
 >- Nest.js
 
 >#### 이용한 데이터베이스 (change to badge)
->- MongoDB Atlas, Compass
+>- MongoDB
 >- PostgreSQL
 >- MySQL
